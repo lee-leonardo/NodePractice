@@ -4,6 +4,4 @@ var practice = require('./pract-mod.js'); //.js can be omitted.
 
 var arguments = process.argv.slice(2);
 
-practice(arguments[0], arguments[1], function() {
-
-});
+practice(arguments[0], arguments[1], );
